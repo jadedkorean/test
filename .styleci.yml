@@ -1,6 +1,5 @@
-php:
-  risky: true
-  version: 7.2
-  preset: symfony
-  finder:
-    exclude: [var]
+risky: true
+version: 7.2
+preset: symfony
+finder:
+  exclude: [var]
